@@ -1,0 +1,74 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    },
+    {
+      "id": 1,
+      "name": "Chakhohbili",
+      "description": "The name comes from the Georgian word “khokhobi” which means “pheasant,” but nowadays it is most usually made with chicken. Traditionally, a whole chicken, cut into pieces with the skin left on, is used but we made ours with chicken breasts.",
+      "price": 20,
+      "raiting": 4.5,
+      "comments": ["comment1", "comment2"],
+      "imageURLs": ["images/food-images/chakhohbili.jpg"],
+      "ordersCount": 1450
+    }
+  ]
+}

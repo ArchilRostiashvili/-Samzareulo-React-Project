@@ -1,0 +1,9 @@
+Current tasks:
+
+1) Make a header - implemented - maybe redisigned
+
+2) Make main page - work in progress
+    Subtasks
+ -1) Make proper name and description styling for slider windows
+
+3) Make a login and signup pages and logic, make item page 
